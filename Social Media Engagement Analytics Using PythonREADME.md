@@ -1,4 +1,4 @@
-                              # Social Media Engagement Analytics Using Python
+                              Social Media Engagement Analytics Using Python
 
 Introduction
 
